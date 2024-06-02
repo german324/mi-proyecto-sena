@@ -1,0 +1,7 @@
+echo "# mi-proyecto-sena" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git rama -M main 
+git remoto agregar origen https://github.com/german324/mi- proyecto-sena.git
+ git push -u origen principal
